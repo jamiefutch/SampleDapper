@@ -1,0 +1,8 @@
+/Users/jamie/Projects/sampledapper/SampleDapper/SampleDapper/obj/Debug/SampleDapper.csprojResolveAssemblyReference.cache
+/Users/jamie/Projects/sampledapper/SampleDapper/SampleDapper/obj/Debug/SampleDapper.csproj.CoreCompileInputs.cache
+/Users/jamie/Projects/sampledapper/SampleDapper/SampleDapper/bin/Debug/SampleDapper.exe
+/Users/jamie/Projects/sampledapper/SampleDapper/SampleDapper/bin/Debug/SampleDapper.pdb
+/Users/jamie/Projects/sampledapper/SampleDapper/SampleDapper/bin/Debug/Dapper.dll
+/Users/jamie/Projects/sampledapper/SampleDapper/SampleDapper/bin/Debug/Dapper.xml
+/Users/jamie/Projects/sampledapper/SampleDapper/SampleDapper/obj/Debug/SampleDapper.exe
+/Users/jamie/Projects/sampledapper/SampleDapper/SampleDapper/obj/Debug/SampleDapper.pdb
